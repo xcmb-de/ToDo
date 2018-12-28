@@ -3,13 +3,20 @@
 # MultiRoomAudio
 
 https://github.com/aawsome/mopidy-snapcast
+
 https://www.home-assistant.io/blog/2016/02/18/multi-room-audio-with-snapcast/
+
 https://github.com/lfcabend/mopidy-spotify-web
+
 http://www.bujarra.com/integrando-snapcast-en-volumio-para-tener-el-mejor-sistema-multiroom/?lang=de
+
 https://github.com/derglaus/snapcast-websockets-ui
+
 https://blog.andreseck.de/2016/03/multi-room-audio-teil-2/
+
 https://github.com/mopidy/mopidy-spotify
 
+https://github.com/s1lvester/docker-snapcast-multiroomaudio
 
 # Voice Assistent
 
@@ -20,35 +27,63 @@ https://medium.com/snips-ai/https-medium-com-customize-snips-voice-assistant-wit
 
 ## sorted?
 https://github.com/tschmidty69/snips
+
 https://github.com/tschmidty69/snips-skill-mopidy
+
 https://github.com/uchagani/snips-enable-sounds
+
 https://github.com/ebezzam/snips-skill-mental-calculation
+
 https://github.com/MrJohnZoidberg/Snips-Wecker
+
 https://github.com/CrystalMethod/snips-pi-gen
+
 https://github.com/Catuna/snips-skill-calendar
+
 https://github.com/Zaimwa9/snipsPlayer
+
 https://github.com/MrJohnZoidberg/SnipsAssistant
+
 https://github.com/ray-hrst/snips-android-sample
+
 https://github.com/Garvys/snips-skill-skeleton
+
 https://github.com/uchagani/AudioServer
+
 https://github.com/sigmaris/snipslistener
+
 https://github.com/CoorFun/Snips-Ikea-Tradfri
+
 https://github.com/RupertEve/voiceassist
+
 https://github.com/ThomArm/Snips-QR
+
 https://github.com/ktaxicolor/snips-android
+
 https://github.com/ChrisB85/snips_mqtt
+
 https://github.com/MrJohnZoidberg/Snips-Fakten
+
 https://github.com/pascalmattes/snips-dialogue
+
 https://github.com/yxdunc/snips-workshop
+
 https://github.com/nickdebCompApps/snips-assistant
-https://github.com/nickdebCompApps/snips-assistant
+
 https://github.com/mathsleg/snips-addition
+
 https://github.com/Zaimwa9/apiSnips
+
 https://github.com/haniawni/my-snip
+
 https://github.com/Zaimwa9/snipsPlayer
+
 https://github.com/snoozaa/snips-mopidy-skill
+
 https://github.com/koenvervloesem/snips-app-say-it-again
+
 https://github.com/CoorFun/snips-app-washing-machine-demo
+
 https://github.com/JDureau/snips-skill-heure-with-name
 
 https://github.com/thanksmister/voice-panel-android
