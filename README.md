@@ -6,6 +6,9 @@ https://github.com/aawsome/mopidy-snapcast
 https://www.home-assistant.io/blog/2016/02/18/multi-room-audio-with-snapcast/
 https://github.com/lfcabend/mopidy-spotify-web
 http://www.bujarra.com/integrando-snapcast-en-volumio-para-tener-el-mejor-sistema-multiroom/?lang=de
+https://github.com/derglaus/snapcast-websockets-ui
+https://blog.andreseck.de/2016/03/multi-room-audio-teil-2/
+https://github.com/mopidy/mopidy-spotify
 
 
 # Voice Assistent
