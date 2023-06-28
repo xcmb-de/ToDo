@@ -2,28 +2,8 @@
 
 # MultiRoomAudio
 
-https://github.com/aawsome/mopidy-snapcast
-
-https://www.home-assistant.io/blog/2016/02/18/multi-room-audio-with-snapcast/
-
-https://github.com/lfcabend/mopidy-spotify-web
-
-http://www.bujarra.com/integrando-snapcast-en-volumio-para-tener-el-mejor-sistema-multiroom/?lang=de
-
-https://github.com/derglaus/snapcast-websockets-ui
-
-https://blog.andreseck.de/2016/03/multi-room-audio-teil-2/
-
-https://github.com/mopidy/mopidy-spotify
-
-https://github.com/s1lvester/docker-snapcast-multiroomaudio
-
 # Voice Assistent
 
-https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite
-
-## running multiple wake word detectors at the same time.
-https://medium.com/snips-ai/https-medium-com-customize-snips-voice-assistant-with-personal-wake-word-6dac6736fab6
 
 ## sorted?
 https://github.com/tschmidty69/snips
@@ -132,7 +112,7 @@ https://github.com/MrJohnZoidberg/Snips-Accessories
 
 # unsorted
 
-https://github.com/Romkabouter/Matrix-Voice-ESP32-MQTT-Audio-Streamer
+
 
 https://github.com/KyleGW/PowerShellSnippets
 
